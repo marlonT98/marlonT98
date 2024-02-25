@@ -7,9 +7,6 @@
 
 
 - 🌱 I am currently learning Spring boot and java.
-
-- 📫 How to contact me **marlontarrillo19@gmail.com**
-
 - ⚡ Fun fact : Food and Music🎵 are the reasons to live.
 
 
