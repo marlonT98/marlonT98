@@ -7,7 +7,7 @@
 
 
 - 🌱 I am currently learning Spring boot and java.
-- ⚡ Fun fact : Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact: Food and Music🎵 are the reasons to live.
 
 
 <br>
